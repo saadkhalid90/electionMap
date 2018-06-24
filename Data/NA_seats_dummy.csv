@@ -1,0 +1,273 @@
+Seat,Region,District,Province,dummy_party,dummy_voteMargin
+NA-1,Chitral,Chitral,Khyber Pakhtunkhua,3,6.444733738
+NA-2,Swat,Swat,Khyber Pakhtunkhua,4,4.808236666
+NA-3,Swat,Swat,Khyber Pakhtunkhua,3,6.646569194
+NA-4,Swat,Swat,Khyber Pakhtunkhua,2,5.282786332
+NA-5,Upper Dir,Upper Dir,Khyber Pakhtunkhua,4,6.707352427
+NA-6,Lower Dir,Lower Dir,Khyber Pakhtunkhua,4,5.0162703
+NA-7,Lower Dir,Lower Dir,Khyber Pakhtunkhua,4,5.424131595
+NA-8,Malakand,Malakand,Khyber Pakhtunkhua,3,4.485380618
+NA-9,Buner,Buner,Khyber Pakhtunkhua,3,5.558036973
+NA-10,Shangla,Shangla,Khyber Pakhtunkhua,1,4.186076268
+NA-11,Kohistan,Kohistan,Khyber Pakhtunkhua,3,6.210516528
+NA-12,Batagram,Batagram,Khyber Pakhtunkhua,2,6.276218011
+NA-13,Mansehra,Mansehra,Khyber Pakhtunkhua,2,6.788453694
+NA-14,Mansehra,Mansehra,Khyber Pakhtunkhua,1,6.844023929
+NA-15,Abbottabad,Abbottabad,Khyber Pakhtunkhua,4,4.369120714
+NA-16,Abbottabad,Abbottabad,Khyber Pakhtunkhua,1,6.190006002
+NA-17,Haripur,Haripur,Khyber Pakhtunkhua,4,6.92949459
+NA-18,Swabi,Swabi,Khyber Pakhtunkhua,3,6.216355665
+NA-19,Swabi,Swabi,Khyber Pakhtunkhua,3,6.352802835
+NA-20,Mardan,Mardan,Khyber Pakhtunkhua,1,5.528990638
+NA-21,Mardan,Mardan,Khyber Pakhtunkhua,1,5.461703153
+NA-22,Mardan,Mardan,Khyber Pakhtunkhua,3,5.953436794
+NA-23,Charsadda,Charsadda,Khyber Pakhtunkhua,4,4.875065879
+NA-24,Charsadda,Charsadda,Khyber Pakhtunkhua,4,4.225729218
+NA-25,Nowshera,Nowshera,Khyber Pakhtunkhua,1,4.988179083
+NA-26,Nowshera,Nowshera,Khyber Pakhtunkhua,3,6.677891934
+NA-27,Peshawar,Peshawar,Khyber Pakhtunkhua,2,5.180623363
+NA-28,Peshawar,Peshawar,Khyber Pakhtunkhua,1,4.377599339
+NA-29,Peshawar,Peshawar,Khyber Pakhtunkhua,3,5.042684474
+NA-30,Peshawar,Peshawar,Khyber Pakhtunkhua,1,4.146478596
+NA-31,Peshawar,Peshawar,Khyber Pakhtunkhua,1,4.976961179
+NA-32,Kohat,Kohat,Khyber Pakhtunkhua,4,5.769761391
+NA-33,Hangu,Hangu,Khyber Pakhtunkhua,2,6.576225405
+NA-34,Karak,Karak,Khyber Pakhtunkhua,3,5.886929919
+NA-35,Bannu,Bannu,Khyber Pakhtunkhua,4,5.664202985
+NA-36,Lakki Marwat,Lakki Marwat,Khyber Pakhtunkhua,3,5.369445879
+NA-37,Tank,Tank,Khyber Pakhtunkhua,4,6.137701647
+NA-38,Dera Ismail Khan,Dera Ismail Khan,Khyber Pakhtunkhua,3,4.661525392
+NA-39,Dera Ismail Khan,Dera Ismail Khan,Khyber Pakhtunkhua,2,5.564705688
+NA-40,Bajaur Agency,Bajaur Agency,F.A.T.A,3,6.784935036
+NA-41,Bajaur Agency,Bajaur Agency,F.A.T.A,3,6.324761519
+NA-42,Bajaur Agency,Bajaur Agency,F.A.T.A,3,4.176892194
+NA-43,Mohmand Agency,Mohmand Agency,F.A.T.A,2,4.45647949
+NA-44,Khyber Agency,Khyber Agency,F.A.T.A,2,5.847884269
+NA-45,Khyber Agency,Khyber Agency,F.A.T.A,2,4.670642661
+NA-46,Kurram Agency,Kurram Agency,F.A.T.A,4,4.023105343
+NA-47,Orakzai Agency,Orakzai Agency,F.A.T.A,4,4.515132145
+NA-48,North Waziristan Agency,North Waziristan Agency,F.A.T.A,3,5.808480238
+NA-49,South Waziristan Agency,South Waziristan Agency,F.A.T.A,4,6.007484584
+NA-50,South Waziristan Agency,South Waziristan Agency,F.A.T.A,2,5.974095226
+NA-51,FR Bannu-FR DI Khan-FR DI Khan-FR Lakki Marwat-FR Peshawar-FR Peshawar,FR Tank,F.A.T.A,1,4.55634396
+NA-52,Islamabad,Islamabad,ICT,3,6.921309746
+NA-53,Islamabad,Islamabad,ICT,3,4.352917889
+NA-54,Islamabad,Islamabad,ICT,4,4.280093145
+NA-55,Attock,Attock,Punjab,3,6.005716863
+NA-56,Attock,Attock,Punjab,4,4.558998124
+NA-57,Rawalpindi,Rawalpindi,Punjab,4,5.339898467
+NA-58,Rawalpindi,Rawalpindi,Punjab,4,6.517626386
+NA-59,Rawalpindi,Rawalpindi,Punjab,2,6.331872467
+NA-60,Rawalpindi,Rawalpindi,Punjab,2,6.739140986
+NA-61,Rawalpindi,Rawalpindi,Punjab,4,6.180162537
+NA-62,Rawalpindi,Rawalpindi,Punjab,3,6.861801988
+NA-63,Rawalpindi,Rawalpindi,Punjab,3,6.220039959
+NA-64,Chakwal,Chakwal,Punjab,4,4.692602245
+NA-65,Chakwal,Chakwal,Punjab,3,4.386835514
+NA-66,Jhelum,Jhelum,Punjab,3,4.89018468
+NA-67,Jhelum,Jhelum,Punjab,4,4.093334897
+NA-68,Gujrat,Gujrat,Punjab,2,4.566804769
+NA-69,Gujrat,Gujrat,Punjab,2,4.947243216
+NA-70,Gujrat,Gujrat,Punjab,1,5.894723992
+NA-71,Gujrat,Gujrat,Punjab,2,5.260302951
+NA-72,Sialkot,Sialkot,Punjab,4,4.287831763
+NA-73,Sialkot,Sialkot,Punjab,4,6.672399004
+NA-74,Sialkot,Sialkot,Punjab,3,4.357507768
+NA-75,Sialkot,Sialkot,Punjab,2,6.495209441
+NA-76,Sialkot,Sialkot,Punjab,1,5.597268134
+NA-77,Narowal,Narowal,Punjab,2,5.901580649
+NA-78,Narowal,Narowal,Punjab,2,4.730305684
+NA-79,Gujranwala,Gujranwala,Punjab,3,4.540232643
+NA-80,Gujranwala,Gujranwala,Punjab,4,4.914078227
+NA-81,Gujranwala,Gujranwala,Punjab,2,4.341127983
+NA-82,Gujranwala,Gujranwala,Punjab,1,5.612065492
+NA-83,Gujranwala,Gujranwala,Punjab,1,5.77474677
+NA-84,Gujranwala,Gujranwala,Punjab,2,5.288256414
+NA-85,Mandi Bahauddin,Mandi Bahauddin,Punjab,4,4.9749987
+NA-86,Mandi Bahauddin,Mandi Bahauddin,Punjab,4,6.367843886
+NA-87,Hafizabad,Hafizabad,Punjab,4,5.925680691
+NA-88,Sargodha,Sargodha,Punjab,2,5.744616203
+NA-89,Sargodha,Sargodha,Punjab,4,5.077471715
+NA-90,Sargodha,Sargodha,Punjab,2,6.036166727
+NA-91,Sargodha,Sargodha,Punjab,2,5.074674826
+NA-92,Sargodha,Sargodha,Punjab,4,6.534926222
+NA-93,Khushab,Khushab,Punjab,1,4.299138223
+NA-94,Khushab,Khushab,Punjab,3,4.861595274
+NA-95,Mianwali,Mianwali,Punjab,1,6.156418314
+NA-96,Mianwali,Mianwali,Punjab,1,5.01333366
+NA-97,Bhakkar,Bhakkar,Punjab,3,4.408057248
+NA-98,Bhakkar,Bhakkar,Punjab,4,5.846208272
+NA-99,Chiniot,Chiniot,Punjab,1,6.594040591
+NA-100,Chiniot,Chiniot,Punjab,2,5.412854662
+NA-101,Faisalabad,Faisalabad,Punjab,4,4.676225038
+NA-102,Faisalabad,Faisalabad,Punjab,1,6.579510443
+NA-103,Faisalabad,Faisalabad,Punjab,2,4.559959508
+NA-104,Faisalabad,Faisalabad,Punjab,4,4.5097108
+NA-105,Faisalabad,Faisalabad,Punjab,2,6.234999767
+NA-106,Faisalabad,Faisalabad,Punjab,1,6.973687324
+NA-107,Faisalabad,Faisalabad,Punjab,4,5.448811092
+NA-108,Faisalabad,Faisalabad,Punjab,1,4.963990194
+NA-109,Faisalabad,Faisalabad,Punjab,3,5.290477153
+NA-110,Faisalabad,Faisalabad,Punjab,3,4.259057727
+NA-111,Toba Tek Singh,Toba Tek Singh,Punjab,1,5.300464042
+NA-112,Toba Tek Singh,Toba Tek Singh,Punjab,1,5.766389208
+NA-113,Toba Tek Singh,Toba Tek Singh,Punjab,1,4.604871564
+NA-114,Jhang,Jhang,Punjab,2,4.882708384
+NA-115,Jhang,Jhang,Punjab,2,6.134370669
+NA-116,Jhang,Jhang,Punjab,1,5.497067669
+NA-117,Nankana Sahib,Nankana Sahib,Punjab,3,4.967200514
+NA-118,Nankana Sahib,Nankana Sahib,Punjab,3,4.589101288
+NA-119,Sheikhupura,Sheikhupura,Punjab,4,6.226860602
+NA-120,Sheikhupura,Sheikhupura,Punjab,2,6.704124597
+NA-121,Sheikhupura,Sheikhupura,Punjab,1,5.929370812
+NA-122,Sheikhupura,Sheikhupura,Punjab,4,5.705705802
+NA-123,Lahore,Lahore,Punjab,4,4.098346013
+NA-124,Lahore,Lahore,Punjab,4,5.22001697
+NA-125,Lahore,Lahore,Punjab,2,5.186502816
+NA-126,Lahore,Lahore,Punjab,4,4.543032285
+NA-127,Lahore,Lahore,Punjab,1,5.567931665
+NA-128,Lahore,Lahore,Punjab,1,5.922584889
+NA-129,Lahore,Lahore,Punjab,3,5.578483469
+NA-130,Lahore,Lahore,Punjab,3,6.612427986
+NA-131,Lahore,Lahore,Punjab,2,5.040347158
+NA-132,Lahore,Lahore,Punjab,3,4.650232241
+NA-133,Lahore,Lahore,Punjab,3,5.722711295
+NA-134,Lahore,Lahore,Punjab,3,4.777610311
+NA-135,Lahore,Lahore,Punjab,2,6.807693552
+NA-136,Lahore,Lahore,Punjab,1,4.576088675
+NA-137,Kasur,Kasur,Punjab,4,5.522724068
+NA-138,Kasur,Kasur,Punjab,1,6.225028218
+NA-139,Kasur,Kasur,Punjab,3,6.876499277
+NA-140,Kasur,Kasur,Punjab,4,5.451507196
+NA-141,Okara,Okara,Punjab,4,5.051598528
+NA-142,Okara,Okara,Punjab,3,6.853448492
+NA-143,Okara,Okara,Punjab,4,5.010424885
+NA-144,Okara,Okara,Punjab,4,4.788664681
+NA-145,Pakpattan,Pakpattan,Punjab,1,6.247184976
+NA-146,Pakpattan,Pakpattan,Punjab,3,5.724056561
+NA-147,Sahiwal,Sahiwal,Punjab,4,4.502286894
+NA-148,Sahiwal,Sahiwal,Punjab,1,5.422752165
+NA-149,Sahiwal,Sahiwal,Punjab,3,5.71989288
+NA-150,Khanewal,Khanewal,Punjab,1,6.276846626
+NA-151,Khanewal,Khanewal,Punjab,2,6.774123735
+NA-152,Khanewal,Khanewal,Punjab,1,6.615454229
+NA-153,Khanewal,Khanewal,Punjab,3,5.030377754
+NA-154,Multan,Multan,Punjab,2,4.29124999
+NA-155,Multan,Multan,Punjab,2,5.900982152
+NA-156,Multan,Multan,Punjab,3,5.56280823
+NA-157,Multan,Multan,Punjab,4,6.121067528
+NA-158,Multan,Multan,Punjab,2,5.636563245
+NA-159,Multan,Multan,Punjab,1,6.875043656
+NA-160,Lodhran,Lodhran,Punjab,3,4.786775921
+NA-161,Lodhran,Lodhran,Punjab,4,5.696002311
+NA-162,Vehari,Vehari,Punjab,3,6.184057405
+NA-163,Vehari,Vehari,Punjab,2,6.789613674
+NA-164,Vehari,Vehari,Punjab,1,5.355328636
+NA-165,Vehari,Vehari,Punjab,3,4.994902594
+NA-166,Bahawalnagar,Bahawalnagar,Punjab,3,4.955209196
+NA-167,Bahawalnagar,Bahawalnagar,Punjab,2,6.580414482
+NA-168,Bahawalnagar,Bahawalnagar,Punjab,3,4.472821862
+NA-169,Bahawalnagar,Bahawalnagar,Punjab,4,4.048051978
+NA-170,Bahawalpur,Bahawalpur,Punjab,4,6.480061275
+NA-171,Bahawalpur,Bahawalpur,Punjab,2,6.713309696
+NA-172,Bahawalpur,Bahawalpur,Punjab,1,4.925000701
+NA-173,Bahawalpur,Bahawalpur,Punjab,4,6.639407666
+NA-174,Bahawalpur,Bahawalpur,Punjab,3,5.220098433
+NA-175,Rahim Yar Khan,Rahim Yar Khan,Punjab,4,4.109130574
+NA-176,Rahim Yar Khan,Rahim Yar Khan,Punjab,3,4.380779406
+NA-177,Rahim Yar Khan,Rahim Yar Khan,Punjab,2,4.78251607
+NA-178,Rahim Yar Khan,Rahim Yar Khan,Punjab,4,6.856476963
+NA-179,Rahim Yar Khan,Rahim Yar Khan,Punjab,3,6.394845622
+NA-180,Rahim Yar Khan,Rahim Yar Khan,Punjab,1,6.584687893
+NA-181,Muzaffargarh,Muzaffargarh,Punjab,2,6.452226488
+NA-182,Muzaffargarh,Muzaffargarh,Punjab,1,4.607239059
+NA-183,Muzaffargarh,Muzaffargarh,Punjab,3,5.962379378
+NA-184,Muzaffargarh,Muzaffargarh,Punjab,1,6.622681529
+NA-185,Muzaffargarh,Muzaffargarh,Punjab,1,6.66511868
+NA-186,Muzaffargarh,Muzaffargarh,Punjab,1,4.435917597
+NA-187,Layyah,Layyah,Punjab,4,4.446483518
+NA-188,Layyah,Layyah,Punjab,4,5.478455994
+NA-189,Dera Ghazi Khan,Dera Ghazi Khan,Punjab,4,4.927531046
+NA-190,Dera Ghazi Khan,Dera Ghazi Khan,Punjab,2,4.232601287
+NA-191,Dera Ghazi Khan,Dera Ghazi Khan,Punjab,3,6.218872446
+NA-192,Dera Ghazi Khan,Dera Ghazi Khan,Punjab,3,5.623692465
+NA-193,Rajanpur,Rajanpur,Punjab,1,4.984704594
+NA-194,Rajanpur,Rajanpur,Punjab,4,4.665167917
+NA-195,Rajanpur,Rajanpur,Punjab,3,4.103383752
+NA-196,Jacobabad,Jacobabad,Sindh,4,5.610396626
+NA-197,Kashmore,Kashmore,Sindh,1,5.199826735
+NA-198,Shikarpur,Shikarpur,Sindh,1,4.516760163
+NA-199,Shikarpur,Shikarpur,Sindh,2,5.837477643
+NA-200,Larkana,Larkana,Sindh,2,5.423650077
+NA-201,Larkana,Larkana,Sindh,1,6.44559005
+NA-202,Kambar-Shahdadkot,Kambar-Shahdadkot,Sindh,4,5.301874412
+NA-203,Kambar-Shahdadkot,Kambar-Shahdadkot,Sindh,4,5.997460024
+NA-204,Ghotki,Ghotki,Sindh,4,6.564739244
+NA-205,Ghotki,Ghotki,Sindh,4,6.656025768
+NA-206,Sukkur,Sukkur,Sindh,1,6.776582302
+NA-207,Sukkur,Sukkur,Sindh,4,6.314147091
+NA-208,Khairpur,Khairpur,Sindh,3,4.069721915
+NA-209,Khairpur,Khairpur,Sindh,1,4.803804812
+NA-210,Khairpur,Khairpur,Sindh,2,4.64465717
+NA-211,Naushehro Feroze,Naushehro Feroze,Sindh,3,6.539742106
+NA-212,Naushehro Feroze,Naushehro Feroze,Sindh,1,4.482701477
+NA-213,Shaheed Benazirabad,Shaheed Benazirabad,Sindh,1,6.260808738
+NA-214,Shaheed Benazirabad,Shaheed Benazirabad,Sindh,3,4.03650984
+NA-215,Sanghar,Sanghar,Sindh,2,5.00490497
+NA-216,Sanghar,Sanghar,Sindh,3,4.347159698
+NA-217,Sanghar,Sanghar,Sindh,3,5.839252958
+NA-218,Mirpurkhas,Mirpurkhas,Sindh,1,6.85931837
+NA-219,Mirpurkhas,Mirpurkhas,Sindh,3,5.017030417
+NA-220,Umerkot,Umerkot,Sindh,1,6.761139862
+NA-221,Tharparkar,Tharparkar,Sindh,4,4.709023097
+NA-222,Tharparkar,Tharparkar,Sindh,2,5.212587338
+NA-223,Matiari,Matiari,Sindh,3,5.741966752
+NA-224,Tando Allah Yar,Tando Allah Yar,Sindh,2,6.217781713
+NA-225,Hyderabad,Hyderabad,Sindh,3,4.649924136
+NA-226,Hyderabad,Hyderabad,Sindh,3,5.55928475
+NA-227,Hyderabad,Hyderabad,Sindh,2,5.576244866
+NA-228,Tando Muhammad Khan,Tando Muhammad Khan,Sindh,4,6.404091836
+NA-229,Badin,Badin,Sindh,4,4.629235282
+NA-230,Badin,Badin,Sindh,4,4.08442417
+NA-231,Sajawal,Sajawal,Sindh,4,4.664390956
+NA-232,Thatta,Thatta,Sindh,4,6.429518915
+NA-233,Jamshoro,Jamshoro,Sindh,4,5.346092712
+NA-234,Dadu,Dadu,Sindh,2,4.844006943
+NA-235,Dadu,Dadu,Sindh,3,4.315382155
+NA-236,Karachi,Karachi,Sindh,1,5.831104272
+NA-237,Karachi,Karachi,Sindh,1,6.643307941
+NA-238,Karachi,Karachi,Sindh,2,4.729735219
+NA-239,Karachi,Karachi,Sindh,2,6.911419214
+NA-240,Karachi,Karachi,Sindh,1,5.693656334
+NA-241,Karachi,Karachi,Sindh,3,5.741459736
+NA-242,Karachi,Karachi,Sindh,1,6.680193303
+NA-243,Karachi,Karachi,Sindh,1,5.867221161
+NA-244,Karachi,Karachi,Sindh,3,5.013290117
+NA-245,Karachi,Karachi,Sindh,4,5.424223267
+NA-246,Karachi,Karachi,Sindh,3,5.797342659
+NA-247,Karachi,Karachi,Sindh,2,4.193308185
+NA-248,Karachi,Karachi,Sindh,2,4.822203872
+NA-249,Karachi,Karachi,Sindh,3,4.299126779
+NA-250,Karachi,Karachi,Sindh,1,4.18022888
+NA-251,Karachi,Karachi,Sindh,2,6.95924056
+NA-252,Karachi,Karachi,Sindh,1,4.561453621
+NA-253,Karachi,Karachi,Sindh,1,5.025784414
+NA-254,Karachi,Karachi,Sindh,4,4.399944072
+NA-255,Karachi,Karachi,Sindh,1,5.571527011
+NA-256,Karachi,Karachi,Sindh,1,4.64859177
+NA-257,Killa Saifullah - Zhob-Sherani,Zhob,Balochistan,2,6.733660179
+NA-258,Loralai - Musakhalil - Ziarat - Dukki - Harnai,Loralai,Balochistan,3,4.501653223
+NA-259,Dera  Bugti - Kohlu - Barkhan - Sibi - Lehri,Kohlu,Balochistan,1,6.907733428
+NA-260,Nasirabad,Nasirabad,Balochistan,3,6.246059927
+NA-261,Jaffarabad - Sohbatpur,Jaffarabad,Balochistan,1,5.407813754
+NA-262,Kacchi - Jhal Magsi,Kachhi,Balochistan,2,4.124670689
+NA-263,Pishin,Pishin,Balochistan,1,6.152215561
+NA-264,Killa Abdullah,Killa Abdullah,Balochistan,1,4.515701683
+NA-265,Quetta,Quetta,Balochistan,3,5.889642922
+NA-266,Quetta,Quetta,Balochistan,3,5.15508881
+NA-267,Quetta,Quetta,Balochistan,1,5.267643006
+NA-268,Mastung - Chaghi -Kalat - Shaheed Sikandrabad - Nushki,Chaghi,Balochistan,1,4.446085476
+NA-269,Khuzdar,Khuzdar,Balochistan,1,6.069824577
+NA-270,Panjgoor - Washuk - Awaran - Kharan,Washuk,Balochistan,2,6.515323667
+NA-271,Kech,Kech,Balochistan,2,5.696757055
+NA-272,Lasbela - Gwadar,Gwadar,Balochistan,3,4.537097008

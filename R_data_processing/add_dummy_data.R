@@ -1,0 +1,14 @@
+## getting the required libraries
+library(readr)
+library(dplyr)
+
+na_seats <- read_csv('../Data/NA_seats.csv')
+
+## adding dummy_party (4 parties)
+na_seats$dummy_party <- floor(runif(n = nrow(na_seats), min = 1, max = 5))
+
+## adding dummy_voteMargin
+
+na_seats$dummy_voteMargin <- runif(n = nrow(na_seats), min = 4, max = 7)
+
+write.csv(x = na_seats, file = '../Data/NA_seats_dummy.csv', row.names = F)

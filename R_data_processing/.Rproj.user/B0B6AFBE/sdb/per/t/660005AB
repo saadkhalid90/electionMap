@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "## getting the required libraries\nlibrary(readr)\nlibrary(dplyr)\n\nna_seats <- read_csv('../Data/NA_seats.csv')\n\n## adding dummy_party (4 parties)\nna_seats$dummy_party <- floor(runif(n = nrow(na_seats), min = 1, max = 5))\n\n## adding dummy_voteMargin\n\nna_seats$dummy_voteMargin <- runif(n = nrow(na_seats), min = 4, max = 7)\n\nwrite.csv(x = na_seats, file = '../Data/NA_seats_dummy.csv', row.names = F)\n",
+    "created" : 1525246777954.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "300941824",
+    "id" : "660005AB",
+    "lastKnownWriteTime" : 1525259855,
+    "last_content_update" : 1525259855632,
+    "path" : "~/Desktop/Dawn Doodles/Electoral Maps/R_data_processing/add_dummy_data.R",
+    "project_path" : "add_dummy_data.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
